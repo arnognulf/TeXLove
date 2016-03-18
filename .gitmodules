@@ -1,0 +1,3 @@
+[submodule "monospaci.py"]
+	path = monospaci.py
+	url = https://github.com/arnognulf/monospaci.py.git
